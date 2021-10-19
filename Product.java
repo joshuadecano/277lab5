@@ -19,6 +19,7 @@ public class Product {
 		this.productName = productName;
 		this.productSize = productSize;
 		this.productPrice = productPrice;
+		// this is the new line i will add for git commit
 	}
 	
 	/**
